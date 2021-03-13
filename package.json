@@ -1,8 +1,15 @@
 {
-  "name": "desafio",
+  "private": true,
+  "name": "nodejs-middlewares-challenge",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
+  "author": {
+    "name": "Matheus Felipe Zanin",
+    "url": "https://github.com/MattZ6"
+  },
+  "repository": "https://github.com/MattZ6/nodejs-middlewares-challenge",
+  "bugs": "https://github.com/MattZ6/nodejs-middlewares-challenge/issues",
   "scripts": {
     "dev": "nodemon",
     "test": "jest"
