@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nodejs-middlewares-challenge",
-  "description": "🔥 Código de resolução do desafio de middlewares, da trilha de NodeJS — Ignite"
+  "description": "🔥 Código de resolução do desafio de middlewares, da trilha de NodeJS — Ignite",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
